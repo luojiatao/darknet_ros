@@ -1,2 +1,0 @@
-darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs
--DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/luo/darknet_ros/devel -DCMAKE_INSTALL_PREFIX=/home/luo/darknet_ros/install -G Unix Makefiles
